@@ -1,0 +1,14 @@
+.img-thumbnail { 
+    min-height: 380px;
+}
+
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
+
+.btn {
+
+    display: inline-block;
+}
